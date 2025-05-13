@@ -1,25 +1,30 @@
-# 👋 Hi, I'm Matthieu Charpentier
+# 👋 Matthieu Charpentier
 
-## About me
+## About Me
 
-Welcome to my digital lair!  
-I'm a seasoned e-commerce wizard with 10+ years of experience turning caffeine into data-driven decisions, and chaos into streamlined processes. I speak fluent SQL, Python, and sarcasm. When I'm not optimizing digital strategies or leading teams, you might find me plotting to automate my coffee machine.
+Senior Sales Engineer with 14+ years of international experience in networking, cloud, and data, working across France, Germany, the USA, Denmark, and the UK. I thrive on bridging the gap between complex technology and business outcomes, helping organizations secure, optimize, and innovate their digital infrastructure.  
+Certified in SASE, AWS, Aviatrix, Splunk, Snowflake, Cribl, and Fortinet, I combine deep technical expertise with a pragmatic, results-driven approach.  
+Fluent in French, English, and German, I’m passionate about leveraging data and cybersecurity to drive business success and build trust-based partnerships in multicultural environments.
+
+Outside of work, I’m a competitive tennis player (ranked top 2% in France), a behavioral finance enthusiast, and a former podcast DJ with over 50 mixes published.
 
 ## Skills
 
-- **E-Commerce Sorcery:** From storefronts to supply chains, I've seen it all (and probably fixed it twice).
-- **Data Whispering:** SQL, Python, Tableau – if it’s got data, I’ll make it talk.
-- **Leadership & Strategy:** I build teams, craft visions, and occasionally win at office trivia.
-- **Project Management:** Certified in turning "ASAP" into "Already Done."
-- **Process Optimization:** If there’s a bottleneck, I’ll find it (and automate it).
+- **Technical Pre-Sales & Solution Engineering** (networking, cloud, data, cybersecurity)
+- **Cloud & Security Certifications:** SASE, AWS, Aviatrix, Splunk, Snowflake, Cribl, Fortinet
+- **Multilingual Communication:** French, English, German (professional proficiency)
+- **Leadership & Project Management:** Driving technical strategy and global account alignment
 
-## Projects
+## Projects & Experience
 
-- **🛒 E-Com Dashboard:** Real-time analytics for online stores.  
-  _Because who doesn’t want to know what’s selling at 3AM?_
+- **Fortinet, Splunk, Snowflake:** Senior Sales Engineer roles delivering cybersecurity and cloud data solutions to enterprise clients.
+- **Cisco:** Led technical strategy and solutions for global financial and insurance customers.
+- **Podcast DJ:** Published 50+ mixes on [Mixcloud](https://www.mixcloud.com/inod/stream/).
 
-- **📊 Data Pipeline Automator:** ETL with style (and error handling that actually works).
+## Fun Fact
 
-- **🤖 Slackbot Sidekick:** Automated reminders, reports, and the occasional meme for team morale.
+If you happen to drop by the Woking Lawn Tennis & Croquet Club, have a look at the honor board above the bar-you’ll see my name next to 2012. That’s the year I claimed the Men’s Singles title!
 
-_P.S.: Check my pinned repos for more! Or just say hi – I promise not to automate you (yet)._
+## Favorite Quote
+
+No matter what your current ability is, effort is what ignites that ability and turns it into accomplishment (Carol Dweck)

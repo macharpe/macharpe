@@ -1,26 +1,27 @@
-## Hi there 👋 I am Matt
+## Hi there 👋 I’m Matt,
 
-Senior Sales Engineer with 14+ years of international experience in networking, cloud, and data, working across France, Germany, the USA, Denmark, and the UK.
-I am fluent in French, English, and German.
-
-Outside of work, I’m a competitive tennis player (ranked top 2% in France), a behavioral finance enthusiast, and a former podcast DJ with over 50 mixes published.
+Senior Sales Engineer with 14+ years of globe-trotting experience in networking, cloud, and data-because why limit yourself to just one country’s headaches? I’ve survived (and sometimes thrived) in France, Germany, the USA, Denmark, and the UK. Fluent in French, English, and German, so I can misunderstand technical jargon in three languages.
 
 ## ⛹️‍♂️ Skills
 
-- **Technical Pre-Sales & Solution Engineering** (networking, cloud, data, cybersecurity)
-- **Cloud & Security Certifications:** SASE, AWS, Aviatrix, Splunk, Snowflake, Cribl, Fortinet
-- **Multilingual Communication:** French, English, German
-- **Leadership & Project Management:** Driving technical strategy and global account alignment
+- **Technical Pre-Sales & Solution Engineering:** networking, cloud, data, cybersecurity-basically, if it has an acronym, I’ve sold it
+- **Cloud & Security Certifications:** SASE, AWS, Aviatrix, Splunk, Snowflake, Cribl, Fortinet (collecting badges like a digital boy scout)
+- **Multilingual Communication:** French, English, German (ask me to explain “latency” in any of them)
+- **Leadership & Project Management:** Herding cats, aligning global accounts, and pretending to enjoy status meetings
 
 ## 🧪 Projects & Experience
 
-- **Cloudflare Zero-Trust Demo Environment**: currently working on a project to have a fully terraformed Cloudflare zero-trust demo environment. _(upcoming)_
+- **Cloudflare Zero-Trust Demo Environment:**  
+  Currently building a fully terraformed Cloudflare zero-trust demo environment. Coming soon-because Rome wasn’t built in a day, and neither are demo labs.
 
 ## 😄 Fun Fact
 
-1. If you happen to drop by the Woking Lawn Tennis & Croquet Club, have a look at the honor board above the bar, you’ll see my name next to 2012. That’s the year I claimed the Men’s Singles title!
-2. I used to deejay a lot and I have published over 50+ mixes (here is a sample: [Mixcloud](https://www.mixcloud.com/inod/stream/))
+If you ever find yourself at the Woking Lawn Tennis & Croquet Club, check out the honor board above the bar. Yup, that’s my name under 2012-the year I peaked athletically and won the Men’s Singles title.  
+Also, I used to DJ and have published 50+ mixes. (Yes, my mother is proud. No, you can’t request “Sandstorm.”)
 
 ## 📖 Favorite Quote
 
-_No matter what your current ability is, effort is what ignites that ability and turns it into accomplishment (Carol Dweck)_
+> “No matter what your current ability is, effort is what ignites that ability and turns it into accomplishment.”  
+> - Carol Dweck
+
+Effort, caffeine, and the occasional lucky bounce.

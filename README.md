@@ -2,9 +2,8 @@
 
 ## About Me
 
-Senior Sales Engineer with 14+ years of international experience in networking, cloud, and data, working across France, Germany, the USA, Denmark, and the UK. I thrive on bridging the gap between complex technology and business outcomes, helping organizations secure, optimize, and innovate their digital infrastructure.  
-Certified in SASE, AWS, Aviatrix, Splunk, Snowflake, Cribl, and Fortinet, I combine deep technical expertise with a pragmatic, results-driven approach.  
-Fluent in French, English, and German, I’m passionate about leveraging data and cybersecurity to drive business success and build trust-based partnerships in multicultural environments.
+Senior Sales Engineer with 14+ years of international experience in networking, cloud, and data, working across France, Germany, the USA, Denmark, and the UK.
+I am fluent in French, English, and German.
 
 Outside of work, I’m a competitive tennis player (ranked top 2% in France), a behavioral finance enthusiast, and a former podcast DJ with over 50 mixes published.
 
@@ -17,9 +16,7 @@ Outside of work, I’m a competitive tennis player (ranked top 2% in France), a 
 
 ## Projects & Experience
 
-- **Fortinet, Splunk, Snowflake:** Senior Sales Engineer roles delivering cybersecurity and cloud data solutions to enterprise clients.
-- **Cisco:** Led technical strategy and solutions for global financial and insurance customers.
-- **Podcast DJ:** Published 50+ mixes on [Mixcloud](https://www.mixcloud.com/inod/stream/).
+- **Cloudflare Zero-Trust Demo Environment**: currently working on a project to have a fully terraformed Cloudflare zero-trust demo environment.
 
 ## Fun Fact
 

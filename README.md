@@ -23,8 +23,9 @@ Outside of work, I’m a competitive tennis player (ranked top 2% in France), a 
 
 ## Fun Fact
 
-If you happen to drop by the Woking Lawn Tennis & Croquet Club, have a look at the honor board above the bar-you’ll see my name next to 2012. That’s the year I claimed the Men’s Singles title!
+1. If you happen to drop by the Woking Lawn Tennis & Croquet Club, have a look at the honor board above the bar-you’ll see my name next to 2012. That’s the year I claimed the Men’s Singles title!
+2. I used to deejay a lot and I have published over 50+ mixes (here is a sample: [Mixcloud](https://www.mixcloud.com/inod/stream/))
 
 ## Favorite Quote
 
-No matter what your current ability is, effort is what ignites that ability and turns it into accomplishment (Carol Dweck)
+_No matter what your current ability is, effort is what ignites that ability and turns it into accomplishment (Carol Dweck)_

@@ -12,7 +12,7 @@ Senior Sales Engineer with 14+ years of globe-trotting experience in networking,
 ## 🧪 Projects & Experience
 
 - **Cloudflare Zero-Trust Demo Environment:**  
-  Currently building a fully terraformed Cloudflare zero-trust demo environment. Coming soon-because Rome wasn’t built in a day, and neither are demo labs.
+  Currently building a fully terraformed Cloudflare zero-trust demo environment. You can read about it here:
   - **Part 1**: [Building a Scalable Zero Trust Demo environment with Cloudflare and Terraform](https://www.linkedin.com/pulse/building-scalable-zero-trust-demo-environment-part-1-charpentier-ntgoe/)
   - **Part 2**: [Automating Cloudflare Zero Trust at Scale: Terraform, Multi-Cloud, and Identity](https://www.linkedin.com/pulse/automating-cloudflare-zero-trust-scale-terraform-part-charpentier-ova1e/)
   - **Part 3**: [Zero Trust for Real-World Scenarios: Use Cases and Extensions](https://www.linkedin.com/pulse/zero-trust-real-world-scenarios-use-cases-extensions-part-matthieu-t5qee/)

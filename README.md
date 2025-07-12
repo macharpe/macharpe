@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Matt,
+@## Hi there 👋 I’m Matt,
 
 Senior Sales Engineer with 14+ years of globe-trotting experience in networking, cloud, and data-because why limit yourself to just one country’s headaches? I’ve survived (and sometimes thrived) in France, Germany, the USA, Denmark, and the UK. Fluent in French, English, and German, so I can misunderstand technical jargon in three languages.
 
@@ -16,6 +16,10 @@ Senior Sales Engineer with 14+ years of globe-trotting experience in networking,
   - **Part 1**: [Building a Scalable Zero Trust Demo environment with Cloudflare and Terraform](https://www.linkedin.com/pulse/building-scalable-zero-trust-demo-environment-part-1-charpentier-ntgoe/)
   - **Part 2**: [Automating Cloudflare Zero Trust at Scale: Terraform, Multi-Cloud, and Identity](https://www.linkedin.com/pulse/automating-cloudflare-zero-trust-scale-terraform-part-charpentier-ova1e/)
   - **Part 3**: [Zero Trust for Real-World Scenarios: Use Cases and Extensions](https://www.linkedin.com/pulse/zero-trust-real-world-scenarios-use-cases-extensions-part-matthieu-t5qee/)
+- **AI-Powered Cisco Meraki Network Management:**
+  AI-powered Cisco Meraki network management via natural language. Built an MCP server on Cloudflare Workers with 18 API tools - ask "show wireless stats" instead of complex 
+  CLI commands. Bridges AI assistants like Claude with network infrastructure. Open source project transforming how DevOps teams manage enterprise networks through 
+  conversational AI.
 
 ## 😄 Fun Fact
 

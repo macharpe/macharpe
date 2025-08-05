@@ -20,6 +20,9 @@ Senior Sales Engineer with 14+ years of globe-trotting experience in networking,
   AI-powered Cisco Meraki network management via natural language. Built an MCP server on Cloudflare Workers with 18 API tools - ask "show wireless stats" instead of complex 
   CLI commands. Bridges AI assistants like Claude with network infrastructure. Open source project transforming how DevOps teams manage enterprise networks through 
   conversational AI.
+- **Training Compliance Gateway for Cloudflare Zero Trust:**
+  A production-ready Cloudflare Worker that implements an External Evaluation Rule for Cloudflare Access, providing training-based access control to enhance your Zero Trust security posture.
+  This worker maintains a database of user training completion status and blocks access to sensitive applications until users complete required security training..
 
 ## 😄 Fun Fact
 

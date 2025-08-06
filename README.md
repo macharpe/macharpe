@@ -15,10 +15,10 @@ Fully terraformed zero-trust demo environment with comprehensive blog series:
 - [Part 2: Terraform & Multi-Cloud Automation](https://www.linkedin.com/pulse/automating-cloudflare-zero-trust-scale-terraform-part-charpentier-ova1e/)
 - [Part 3: Real-World Use Cases](https://www.linkedin.com/pulse/zero-trust-real-world-scenarios-use-cases-extensions-part-matthieu-t5qee/)
 
-### **2. AI-Powered Cisco Meraki Management**
+### **2. AI-Powered Cisco Meraki Management worker**
 MCP server on Cloudflare Workers with 18 API tools enabling natural language network management. Transform "show wireless stats" commands into conversational AI interactions for DevOps teams.
 
-### **3. Training Compliance Gateway**
+### **3. Training Compliance Gateway worker**
 Production-ready Cloudflare Worker implementing External Evaluation Rules for Access control. Enforces security training completion before granting access to sensitive applications.
 
 ## 🎾 Fun Facts

@@ -21,6 +21,9 @@ MCP server on Cloudflare Workers with 18 API tools enabling natural language net
 ### **3. Training Compliance Gateway worker**
 Production-ready Cloudflare Worker implementing External Evaluation Rules for Access control. Enforces security training completion before granting access to sensitive applications.
 
+### **4. Cloudflare DNS Ad Gateway**
+Network-wide ad blocking using Cloudflare Zero Trust Gateway and Terraform. DNS-level ad blocker protects all devices - phones, smart TVs, IoT devices - with zero configuration. Infrastructure as Code solution blocks ads at network level, bypassing browser limitations. Automated domain list processing, Terraform deployment, family-friendly setup. Perfect alternative to browser extensions.
+
 ## 🎾 Fun Facts
 - 2012 Men's Singles champion at Woking Lawn Tennis & Croquet Club
 - Former DJ with 50+ published mixes

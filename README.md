@@ -8,9 +8,9 @@ Senior Sales Engineer with 14+ years of global experience in networking, cloud, 
 **Languages:** French, English, German  
 
 ## 📊 Stats
-![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=macharpe&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macharpe&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
 

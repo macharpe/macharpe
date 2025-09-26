@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Matt
 
+![Profile Views](https://komarev.com/ghpvc/?username=macharpe&color=blue&style=flat)
+
 Senior Sales Engineer with 14+ years of global experience in networking, cloud, and data across France, Germany, USA, Denmark, and the UK. Fluent in French, English, and German.
 
 ## 🛠️ Skills
@@ -9,8 +11,6 @@ Senior Sales Engineer with 14+ years of global experience in networking, cloud, 
 
 ## 📊 Stats
 ![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=macharpe&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macharpe&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
 
